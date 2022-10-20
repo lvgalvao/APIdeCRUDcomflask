@@ -9,8 +9,6 @@ Experiência com um crud usando flask e suas ferramentas
 - marshmallow_sqlalchemy
 - flask-jwt-extended
 
-[Testes de comportamento com BDD](https://youtu.be/aX0P5tsiat4)
-
 ## Como rodar esse projeto
 
 ```sh
